@@ -42,6 +42,7 @@ p {
   background: #fff;
   display: flex;
   border-radius: 15px;
+  box-shadow: 4px 4px 10px rgba(109, 127, 151, 0.1);
 }
 
 .card-img {
